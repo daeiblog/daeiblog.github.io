@@ -1,0 +1,61 @@
+
+---فایل‌های دانلود شده---
+The import files for: Geo were successfully downloaded!
+حداکثر زمان اجرا = 120
+اطلاعات فایل:
+ URL سایت = http://localhost/daei
+ اطلاعات فایل = C:\xampp\htdocs\daei/wp-content/uploads/2022/06/demo-content-import-file_2022-06-24__17-31-39.xml
+ فایل ویجت = تعریف نشده!
+ فایل شخصی سازی = تعریف نشده!
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 1
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 2
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 3
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 4
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+------
+Completed AJAX call number: 5
+
+
+---Debugging---
+Begin to import the media files from the XML
+
+---درون ریزی محتوا---
+
+MAX EXECUTION TIME = 300
+MEMORY LIMIT = 512M
+
+---Debugging---
+After importing the media files from the XML
+
+---pt-ocdi/before_widgets_import---
+
+
+---تکمیل شد---
+The Demo has been imported in 146.01637887955econds.
